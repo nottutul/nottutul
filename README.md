@@ -18,8 +18,20 @@
 
 ###
 
-<h6 align="left">Electrical & Computer Engineering<br>Rajshahi University of Science & Technology</h6>
+<table border="0" cellpadding="0" cellspacing="0" align="left">
+  <tr>
+    <td width="60" align="left" valign="middle">
+      <!-- Path updated to include the folder name -->
+      <img src="logo/ruet-logo.png" width="50" alt="RUET Logo" />
+    </td>
+    <td align="left" valign="middle">
+      <h6 style="margin: 0; padding: 0;">Electrical & Computer Engineering</h6>
+      <p style="margin: 0; padding: 0;">Rajshahi University of Engineering & Technology</p>
+    </td>
+  </tr>
+</table>
 
+<br clear="all" />
 ###
 
 <h2 align="left">I code with</h2>
