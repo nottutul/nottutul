@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Myselt Tutul. I'm from Kushtia</p>
+<p align="left">Myself Tutul. I'm from Kushtia</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h6 align="left">Electrical & Computer Engineering<br>Rajshahi University of Science & Tecnology</h6>
+<h6 align="left">Electrical & Computer Engineering<br>Rajshahi University of Science & Technology</h6>
 
 ###
 
@@ -37,6 +37,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clerk/clerk-original.svg" height="40" alt="clerk logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -47,8 +51,6 @@
 </div>
 
 ###
-
-
 
 ###
 
@@ -64,7 +66,7 @@
   <a href="t.me/stkb23" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="tutulkumar.ece.ruet@gmail.com" target="_blank">
+  <a href="mailto:tutulkumar.ece.ruet@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
