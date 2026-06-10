@@ -22,7 +22,7 @@
   <tr>
     <td width="60" align="left" valign="middle">
       <!-- Path updated to include the folder name -->
-      <img src="logo/ruet-logo.png" width="50" alt="RUET Logo" />
+      <img src="logo/ruet-logo.svg" width="50" alt="RUET Logo" />
     </td>
     <td align="left" valign="middle">
       <h6 style="margin: 0; padding: 0;">Electrical & Computer Engineering</h6>
