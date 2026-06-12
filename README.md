@@ -91,6 +91,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nottutul/nottutul/snake-output/snake.svg" alt="Snake animation" />
-
-###
