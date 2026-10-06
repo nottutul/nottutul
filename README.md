@@ -100,8 +100,4 @@
 
 ###
 
-![pacman contribution graph](https://raw.githubusercontent.com/nottutul/nottutul/pacman-output/pacman-contribution-graph.svg?game=pacman#gh-light-mode-only)
-![pacman contribution graph](https://raw.githubusercontent.com/nottutul/nottutul/pacman-output/pacman-contribution-graph-dark.svg?game=pacman#gh-dark-mode-only)
-
-###
 
