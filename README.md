@@ -100,11 +100,8 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nottutul/nottutul/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nottutul/nottutul/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nottutul/nottutul/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+![pacman contribution graph](https://raw.githubusercontent.com/nottutul/nottutul/pacman-output/pacman-contribution-graph.svg?game=pacman#gh-light-mode-only)
+![pacman contribution graph](https://raw.githubusercontent.com/nottutul/nottutul/pacman-output/pacman-contribution-graph-dark.svg?game=pacman#gh-dark-mode-only)
 
 ###
 
