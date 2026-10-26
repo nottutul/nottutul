@@ -72,7 +72,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="8" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" height="48" alt="Github" />
+  <img src="logo/github-logo.svg" height="40" alt="Github" />
   <img width="8" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" alt="cplusplus logo"  />
   
@@ -89,7 +89,7 @@
 
 <div align="left">
   <a href="https://www.facebook.com/stkb23" target="_blank">
-  <img src="logo/facebook-logo.svg" width="55" height="43" alt="facebook logo"  />
+  <img src="logo/facebook-logo.svg" width="53" height="41" alt="facebook logo"  />
   <a href="https://www.linkedin.com/in/tutulkumar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
